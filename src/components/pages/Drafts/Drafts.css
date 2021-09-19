@@ -1,0 +1,10 @@
+.card-box{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.card{
+    display: none;
+}
